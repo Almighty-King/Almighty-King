@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on spreadsheet
+- 🌱 I’m currently learning rust
 
 <!--
 **Almighty-King/Almighty-King** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
